@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  FindLife
+
+  Created by qianfeng on 14-9-30.
+  Copyright (c) 2014年 GPH. All rights reserved.
+*/
+"loading" = "加载中...";
+"pull down to refresh" = "下拉来刷新...";
+"release to refresh" = "可以松开了...";
+"last updated" = "最后更新:";
